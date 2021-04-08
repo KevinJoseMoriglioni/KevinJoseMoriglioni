@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KevinJoseMoriglioni
+- 👀 I’m interested in mathematics and technology in general
+- 🌱 I’m currently learning machine learning and video game programming
+- 💞️ I’m looking to collaborate on biological technology
